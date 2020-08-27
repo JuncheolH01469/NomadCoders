@@ -31,4 +31,3 @@ class Convertible(Car):
 
 porche = Convertible(color="green", price="$40")
 print(porche.color)
-
